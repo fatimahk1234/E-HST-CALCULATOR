@@ -1,1 +1,1 @@
-# E-HST-CALCULATOR
+# Calculator
